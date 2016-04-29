@@ -2,8 +2,8 @@
 //  UserAccountTool.swift
 //  DS11WB
 //
-//  Created by xiaomage on 16/4/8.
-//  Copyright © 2016年 小码哥. All rights reserved.
+//  Created by Cheney on 16/4/8.
+//  Copyright © 2016年 Cheney. All rights reserved.
 //
 
 import UIKit
@@ -36,7 +36,7 @@ class UserAccountViewModel {
     
     // MARK:- 重写init()函数
     init () {
-        // 1.从沙盒中读取中归档的信息
+        // 从沙盒中读取中归档的信息
         account = NSKeyedUnarchiver.unarchiveObjectWithFile(accountPath) as? UserAccount
     }
 }

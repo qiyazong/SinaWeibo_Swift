@@ -9,9 +9,9 @@
 import Foundation
 
 // MARK:- 授权的常量
-let app_key = "3467343333"
-let app_secret = "99cffaeff85c7e8e18a95913de1479d7"
-let redirect_uri = "http://www.520it.com"
+let app_key = "2893713829"
+let app_secret = "Secret：f0da0c3d64ae8e60ca1db5a9d2c70a75"
+let redirect_uri = "http://www.ccniit.com/"
 
 
 // MARK:- 选择照片的通知常量
